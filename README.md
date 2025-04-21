@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dev2foo?cardType=octocat&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev2foo&repo=dev2foo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev2foo&theme=tokyonight&utcOffset=5)
