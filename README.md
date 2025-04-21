@@ -1,4 +1,4 @@
-# `TECHNOLOGY FOR TECHNOLOGISTS`
+# `SYSADMIN BUILDING TECHNOLOGY FOR TECHNOLOGISTS @DEV2DEPLOY`
 
 # `modernized:` architectures. infrastructures. applications. 
 
