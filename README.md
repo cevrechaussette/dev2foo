@@ -1,4 +1,4 @@
-# `SYSADMIN BUILDING TECHNOLOGY FOR TECHNOLOGISTS @DEV2DEPLOY`
+# `SYSADMIN BUILDING AI TECHNOLOGY FOR TECHNOLOGISTS`
 
 # `modernized:` architectures. infrastructures. applications. 
 
